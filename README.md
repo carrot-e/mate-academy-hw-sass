@@ -60,11 +60,9 @@ Use this tips for code organization:
 
 ## Step 4
 Using the UI components you've implemented in Step 3, create this layout:
-[Mobile (`<480px`)](./images/mobile-layout.png)
-
-[Tablet (`480px` - `1024px`)](./images/tablet-layout.png)
-
-[Desktop (`1024px+`)](./images/desktop-layout.png)
+- [Mobile (`<480px`)](./images/mobile-layout.png)
+- [Tablet (`480px` - `1024px`)](./images/tablet-layout.png)
+- [Desktop (`1024px+`)](./images/desktop-layout.png)
 
 You can find the photo [here](./images/card-390x480.jpg).
 Use CSS `grid` for positioning cards on the page correctly.

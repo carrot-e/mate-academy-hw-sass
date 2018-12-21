@@ -65,6 +65,7 @@ Using the UI components you've implemented in Step 3, create this layout:
 - [Mobile (`<480px`)](./images/mobile-layout.png)
 - [Tablet (`480px` - `1024px`)](./images/tablet-layout.png)
 - [Desktop (`1024px+`)](./images/desktop-layout.png)
+
 Make sure you use full width of the viewport at any device.
 
 You can find the photo [here](./images/card-390x480.jpg).

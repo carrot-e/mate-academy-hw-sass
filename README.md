@@ -52,6 +52,8 @@ You don't need to implement the response effect for buttons.
 You can use [Roboto](https://fonts.google.com/specimen/Roboto) instead of Audi's font.
 
 Use this tips for code organization:
+- Use CSS preprocessor.
+- Use BEM.
 - Put all variables into separate file.
 - Create one file per component.
 - Avoid unnecessary nesting.
@@ -63,6 +65,7 @@ Using the UI components you've implemented in Step 3, create this layout:
 - [Mobile (`<480px`)](./images/mobile-layout.png)
 - [Tablet (`480px` - `1024px`)](./images/tablet-layout.png)
 - [Desktop (`1024px+`)](./images/desktop-layout.png)
+Make sure you use full width of the viewport at any device.
 
 You can find the photo [here](./images/card-390x480.jpg).
 Use CSS `grid` for positioning cards on the page correctly.
